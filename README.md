@@ -1,1 +1,1 @@
-#Problems Solved from the CSES Problem Set
+Problems Solved from the CSES Problem Set
